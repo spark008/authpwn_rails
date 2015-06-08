@@ -2,7 +2,6 @@ source 'https://rubygems.org'
 
 gem 'rails', github: 'rails'
 gem 'arel', github: 'rails/arel'
-gem 'rails-controller-testing'
 
 group :development do
   gem 'bundler', '>= 1.7.3'
